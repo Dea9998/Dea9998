@@ -1,4 +1,27 @@
-## Hi there 👋
+# Holla i'm Ade 👋
+
+<!--
+**Dea9998/Dea9998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+📫 How to reach me:[@ssnddy21](https://www.instagram.com/ssnddy21?igsh=ZmdtMGl2YXN5bGZn)
+💬 Ask me about 🤔
+- My favorite perfumes (and why they feel like mood boosters :)
+
+- Perfume notes I’d turn into website color palettes 😎
+
+![hi](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB4Mmpqcmt6Zzl5NzZucnZ0dGhpdGM3c2d2YmIyOHZ1ZWRkYncyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CjmvTCZf2U3p09Cn0h/giphy.gif)
 
 <!--
 **Dea9998/Dea9998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
