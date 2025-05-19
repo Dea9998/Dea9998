@@ -1,6 +1,5 @@
 # Holla i'm Ade 👋
 
-![Dea9998](img/github-header-1.png) 
 <!--
 **Dea9998/Dea9998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
